@@ -17,12 +17,6 @@ Sites and products names are represented in a table so that it's easier to compa
 
 
 
-uno | due
---- | ---
-tre | aaa
-www | sss
-
-
 
  Name | F1 | F2 
 --- | --- | --- 
