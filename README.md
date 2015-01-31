@@ -15,16 +15,17 @@ Feel free to fork this project and ask a pull request if you have something inte
 ## How it's organized
 Sites and products names are represented in a table so that it's easier to compare the outcomes for each one. The tables will contain 'x' characters in the cells where I think that ....
 
-# | Name | F1 | F2 | F3 | F4 | F5 | F6 |
----|---|---|---|---|---
-Whatsapp | x | x | x | x
-Facebook | | | | 
-Google | x | | |
-Viber ||||
-Telegram ||||
-Windows ||||
-Office ||||
-Ebay ||||
-Piratebay ||||
-Twitter ||||
+# | Name | F1 | F2 
+--- | --- | --- 
+Whatsapp | x | x 
+Facebook | | 
+Google | x | 
+Viber ||
+Telegram ||
+Windows ||
+Office ||
+Ebay ||
+Piratebay ||
+Twitter ||
+
 ...
