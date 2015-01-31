@@ -24,7 +24,7 @@ www | sss
 
 
 
-# | Name | F1 | F2 
+ Name | F1 | F2 
 --- | --- | --- 
 Whatsapp | x | x 
 Facebook | | 
