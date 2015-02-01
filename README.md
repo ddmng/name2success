@@ -27,45 +27,76 @@ Here's the list of what I think have been the
 
 ### The table
 
-Type           | Name       | F1  | F2 
----            | ---        | --- | --- 
-App            | Whatsapp   | x   | x 
-Social Network | Facebook   |     | 
-Search engine  | Google     | x   | 
-Search engine  | Yahoo      | x   | 
-App            | Viber      |     |
-App            | Telegram   |     |
-OS             | Windows    |     |
-PC software    | Office     |     |
-Web site       | Ebay       |     |
-Web site       | Kijiji     |     |
-Web site       | Piratebay  |     |
-Social network | Twitter    |     |
-Browser        | Chrome     |     | 
-Browser        | Firefox    |     |
-OS             | Ubuntu     |     |
-PC software    | Photoshop  |     |
-Web site       | GMail      |     |
-Web site       | Youtube    |     |
-Web site       | Amazon     |     |
-Web site       | Wikipedia  |     |
-Web site       | Linkedin   |     |
-Search engine  | Bing       |     |
-Search engine  | Pinterest  |     |
-Search engine  | Reddit     |     |
-Search engine  | Myspace    |     |
-Search engine  | Instagram  |     |
-Search engine  | Paypal     |     |
-Search engine  | iPhone     |     |
-Search engine  | Foursquare |     |
-Search engine  | Netflix    |     |
+Type           | Name           | F1  | F2 
+---            | ---            | --- | --- 
+App            | Whatsapp       | x   | x 
+Social Network | Facebook       |     | 
+Search engine  | Google         | x   | 
+Search engine  | Yahoo          | x   | 
+App            | Viber          |     |
+App            | Telegram       |     |
+OS             | Windows        |     |
+PC software    | Office         |     |
+Web site       | Ebay           |     |
+Web site       | Kijiji         |     |
+Web site       | Piratebay      |     |
+Social network | Twitter        |     |
+Browser        | Chrome         |     | 
+Browser        | Firefox        |     |
+OS             | Ubuntu         |     |
+PC software    | Photoshop      |     |
+Web site       | GMail          |     |
+Web site       | Youtube        |     |
+Web site       | Amazon         |     |
+Web site       | Wikipedia      |     |
+Web site       | Linkedin       |     |
+Search engine  | Bing           |     |
+Search engine  | Pinterest      |     |
+Search engine  | Reddit         |     |
+Search engine  | Myspace        |     |
+Search engine  | Instagram      |     |
+Search engine  | Paypal         |     |
+Search engine  | iPhone         |     |
+Search engine  | Foursquare     |     |
+Search engine  | Netflix        |     |
 Search engine  | Stack overflow |     |
-Search engine  | Craigslist |     |
-Search engine  | Dailymotion |     |
-Search engine  | Dropbox |     |
-Search engine  | Blogger |     |
+Search engine  | Craigslist     |     |
+Search engine  | Dailymotion    |     |
+Search engine  | Dropbox        |     |
+Search engine  | Blogger        |     |
+HW producy     | Nest           |     |
+Web site       | Tripadvisor    |     |
+Web site       | Booking        |     |
+Web site       | Airbnb         |     |
+Web site       | Groupon        |     |
+Web site       | GoDaddy        |     |
+               | Meetup         |     |
+               | Waze           |     |
+               | Shazam         |     |
+               | Evernote       |     |
+               | Spotify        |     |
+               | Skype          |     |
+               | Minecraft      |     |
+               | Ruzzle         |     |
+               | Snapchat       |     |
+               | Tango          |     |
+               | Line           |     |
+               | Dubsmash       |     |
+               | Expedia        |     |
+               | IFTTT          |     |
+               | Trello         |     |
+               | Pocket         |     |
+               | Feedly         |     |
+               | Wunderlist     |     |
+               | Flipboard      |     |
+               | Uber           |     |
+               | Lyft           |     |
+               | Trivago        |     |
+
 
 
 
 
 ### Results
+Here I want to summarize what I will discover at the end of this "study".
+
