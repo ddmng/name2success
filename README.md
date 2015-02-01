@@ -6,7 +6,7 @@ It's basically a sigle file (this) with a list of software products and web site
 ##Why?
 Simple: I need a name for a side project and I want to know more about how much a good name plays a success role for a product or a site and what is a "good product'.
 
-##About the classification
+##Notes about the classification
 All this stuff is strictly linked to the way I perceived the story of that site or software, so it doesn't represent in any way an official explanation of how things went for that thing.
 
 ##Contribute
@@ -15,8 +15,15 @@ Feel free to fork this project and ask a pull request if you have something inte
 ## How it's organized
 Sites and products names are represented in a table so that it's easier to compare the outcomes for each one. The tables will contain 'x' characters in the cells where I think that ....
 
+## Let's start
+
+### Type of software/web site 
 
 
+### Classfication
+
+
+### The table
 
 Type           | Name       | F1  | F2 
 ---            | ---        | --- | --- 
