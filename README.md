@@ -30,5 +30,10 @@ Office ||
 Ebay ||
 Piratebay ||
 Twitter ||
+Chrome || 
+Firefox ||
+Ubuntu ||
+Photoshop ||
+
 
 ...
