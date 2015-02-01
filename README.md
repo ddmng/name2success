@@ -1,13 +1,14 @@
 # name2success
 Study on if, and how, names conditioned success of a web site or a software product.
 
+## What I want do do
+I want to take a list of the most successful software products and web sites and try to say *why* they've been so successful. If there's a relation between the name of the site/software and its success, I want to know what is it.
 
+## Why?
+Simple: I need a name for a side project and I possibly want to reverse-engineer the most famous success stories in order to understand if can adopt a good naming strategy.
 
-##Why?
-Simple: I need a name for a side project and I want to know more about how much a good name plays a success role for a product or a site and what characteristics have in common "good names".
-
-##Notes about the classification
-All this stuff is strictly related to the way I perceived the story of that site or software, so it doesn't represent in any way an official explanation of how things went for that thing.
+## What I choose and how I classify
+In this work I'm considering only the most famous software products and web sites because I feel more confident when I'm doing such a work on such a stuff. All considerations related to the way I perceived the story of that site or software, so it doesn't represent in any way an official explanation of how things went for that thing. Moreover, my considerations could (end eventually will) be superficial for many points of view. Anyway, most of the names reported arose to glory while I was already *nerding* around on Internet, so I hope I understood how things worked for them.
 
 ###Contribute
 For the above reason, feel free to fork this project and ask a pull request if you have something interesting to add.
@@ -18,8 +19,7 @@ First of all, I try to list all the ways the sites/products reached success in t
 Sites and products names are represented in a table so that it's easier to compare the outcomes for each one. The tables will contain 'x' characters in the cells where I think that ....
 
 ## Let's start
-
-### Type of software/web site 
+The first section that follows contains a list of the reasons that brought the studied subjects to success. I try to enumerate some different cases in order to fill a table (second section) assigning those cases to the subjects. The last section tries to summarize what I learned from this study and decide which names influenced more the road to success and what other considerations can be done.
 
 
 ### Classfication
@@ -32,17 +32,40 @@ Type           | Name       | F1  | F2
 App            | Whatsapp   | x   | x 
 Social Network | Facebook   |     | 
 Search engine  | Google     | x   | 
+Search engine  | Yahoo      | x   | 
 App            | Viber      |     |
 App            | Telegram   |     |
 OS             | Windows    |     |
 PC software    | Office     |     |
 Web site       | Ebay       |     |
+Web site       | Kijiji     |     |
 Web site       | Piratebay  |     |
 Social network | Twitter    |     |
 Browser        | Chrome     |     | 
 Browser        | Firefox    |     |
 OS             | Ubuntu     |     |
 PC software    | Photoshop  |     |
+Web site       | GMail      |     |
+Web site       | Youtube    |     |
+Web site       | Amazon     |     |
+Web site       | Wikipedia  |     |
+Web site       | Linkedin   |     |
+Search engine  | Bing       |     |
+Search engine  | Pinterest  |     |
+Search engine  | Reddit     |     |
+Search engine  | Myspace    |     |
+Search engine  | Instagram  |     |
+Search engine  | Paypal     |     |
+Search engine  | iPhone     |     |
+Search engine  | Foursquare |     |
+Search engine  | Netflix    |     |
+Search engine  | Stack overflow |     |
+Search engine  | Craigslist |     |
+Search engine  | Dailymotion |     |
+Search engine  | Dropbox |     |
+Search engine  | Blogger |     |
 
 
-...
+
+
+### Results
