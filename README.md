@@ -18,22 +18,22 @@ Sites and products names are represented in a table so that it's easier to compa
 
 
 
-Type | Name | F1 | F2 
---- | --- | --- | --- 
-App | Whatsapp | x | x 
-Social Network | Facebook | | 
-Search engine | Google | x | 
-App | Viber ||
-App | Telegram ||
-OS | Windows ||
-PC software | Office ||
-Web site | Ebay ||
-Web site | Piratebay ||
-Social network | Twitter ||
-Browser | Chrome || 
-Browser | Firefox ||
-OS | Ubuntu ||
-PC software | Photoshop ||
+Type           | Name       | F1  | F2 
+---            | ---        | --- | --- 
+App            | Whatsapp   | x   | x 
+Social Network | Facebook   |     | 
+Search engine  | Google     | x   | 
+App            | Viber      |     |
+App            | Telegram   |     |
+OS             | Windows    |     |
+PC software    | Office     |     |
+Web site       | Ebay       |     |
+Web site       | Piratebay  |     |
+Social network | Twitter    |     |
+Browser        | Chrome     |     | 
+Browser        | Firefox    |     |
+OS             | Ubuntu     |     |
+PC software    | Photoshop  |     |
 
 
 ...
