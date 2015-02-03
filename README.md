@@ -70,28 +70,29 @@ Web site       | Booking        |     |
 Web site       | Airbnb         |     |
 Web site       | Groupon        |     |
 Web site       | GoDaddy        |     |
-               | Meetup         |     |
-               | Waze           |     |
-               | Shazam         |     |
-               | Evernote       |     |
-               | Spotify        |     |
-               | Skype          |     |
-               | Minecraft      |     |
-               | Ruzzle         |     |
-               | Snapchat       |     |
-               | Tango          |     |
-               | Line           |     |
-               | Dubsmash       |     |
-               | Expedia        |     |
-               | IFTTT          |     |
-               | Trello         |     |
-               | Pocket         |     |
-               | Feedly         |     |
-               | Wunderlist     |     |
-               | Flipboard      |     |
-               | Uber           |     |
-               | Lyft           |     |
-               | Trivago        |     |
+Web site       | Meetup         |     |
+Web site       | Waze           |     |
+Web site       | Shazam         |     |
+Web site       | Evernote       |     |
+Web site       | Spotify        |     |
+VOIP service   | Skype          |     |
+Game           | Minecraft      |     |
+App            | Ruzzle         |     |
+App            | Snapchat       |     |
+App            | Tango          |     |
+App            | Line           |     |
+App            | Dubsmash       |     |
+Web site       | Expedia        |     |
+Web site       | IFTTT          |     |
+Web site       | Trello         |     |
+Web site       | Pocket         |     |
+Web site       | Feedly         |     |
+Web site       | Wunderlist     |     |
+App            | Flipboard      |     |
+Taxi service   | Uber           |     |
+Taxi service   | Lyft           |     |
+Web site       | Trivago        |     |
+Web site       | Delicious      |     |
 
 
 
