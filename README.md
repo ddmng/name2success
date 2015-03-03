@@ -93,6 +93,7 @@ Taxi service   | Uber           |     |
 Taxi service   | Lyft           |     |
 Web site       | Trivago        |     |
 Web site       | Delicious      |     |
+Web site       | Zapier         |     |
 
 
 
