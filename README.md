@@ -27,11 +27,11 @@ Here's the list of what I think have been the
 
 ### The table
 
-Type           | Name           | F1  | F2 
----            | ---            | --- | --- 
-App            | Whatsapp       | x   | x 
-Social Network | Facebook       |     | 
-Search engine  | Google         | x   | 
+Type           | Name           | F1  | F2  | Comments
+---            | ---            | --- | --- |------
+App            | Whatsapp       | x   | x   | Comment 1
+Social Network | Facebook       |     |     | Comment 2
+Search engine  | Google         | x   |     |
 Search engine  | Yahoo          | x   | 
 App            | Viber          |     |
 App            | Telegram       |     |
