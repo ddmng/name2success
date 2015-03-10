@@ -32,28 +32,28 @@ Type           | Name           | F1  | F2  | Comments
 App            | Whatsapp       | x   | x   | Comment 1
 Social Network | Facebook       |     |     | Comment 2
 Search engine  | Google         | x   |     |
-Search engine  | Yahoo          | x   | 
-App            | Viber          |     |
-App            | Telegram       |     |
-OS             | Windows        |     |
-PC software    | Office         |     |
-Web site       | Ebay           |     |
-Web site       | Kijiji         |     |
-Web site       | Piratebay      |     |
-Social network | Twitter        |     |
-Browser        | Chrome         |     | 
-Browser        | Firefox        |     |
-OS             | Ubuntu         |     |
-PC software    | Photoshop      |     |
-Web site       | GMail          |     |
-Web site       | Youtube        |     |
-Web site       | Amazon         |     |
-Web site       | Wikipedia      |     |
-Web site       | Linkedin       |     |
-Search engine  | Bing           |     |
-Search engine  | Pinterest      |     |
-Search engine  | Reddit         |     |
-Search engine  | Myspace        |     |
+Search engine  | Yahoo          | x   |      | Comment 2
+App            | Viber          |     |     | Comment 2
+App            | Telegram       |     |     | Comment 2
+OS             | Windows        |     |     | Comment 2
+PC software    | Office         |     |     | Comment 2
+Web site       | Ebay           |     |     | Comment 2
+Web site       | Kijiji         |     |     | Comment 2
+Web site       | Piratebay      |     |     | Comment 2
+Social network | Twitter        |     |     | Comment 2
+Browser        | Chrome         |     |      | Comment 2
+Browser        | Firefox        |     |     | Comment 2
+OS             | Ubuntu         |     |     | Comment 2
+PC software    | Photoshop      |     |     | Comment 2
+Web site       | GMail          |     |     | Comment 2
+Web site       | Youtube        |     |     | Comment 2
+Web site       | Amazon         |     |     | Comment 2
+Web site       | Wikipedia      |     |     | Comment 2
+Web site       | Linkedin       |     |     | Comment 2
+Search engine  | Bing           |     |     | Comment 2
+Search engine  | Pinterest      |     |     | Comment 2
+Search engine  | Reddit         |     |     | Comment 2
+Search engine  | Myspace        |     |     | Comment 2
 Search engine  | Instagram      |     |
 Search engine  | Paypal         |     |
 Search engine  | iPhone         |     |
