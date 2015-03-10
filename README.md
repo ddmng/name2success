@@ -23,7 +23,7 @@ The first section that follows contains a list of the reasons that brought the s
 
 
 ### Classfication
-Here's the list of what I think have been the 
+Here's a summary of the types of influence that I think the names had on the product they represented. Staring from the mostly influencers to the uneffectives, this list will be explained better in the single comments. NOTE: see if it's better to add a section for the most notable cases in the table.
 
 ### The table
 
